@@ -20,7 +20,10 @@ The menu displays options to add, delete, modify, search and display.
 -  Exit - Exit from the main menu bar.
 
 # SWOT Analysis
-<img width="640" alt="image" src="https://user-images.githubusercontent.com/102716839/161013203-229001fa-0b18-4b41-8b75-52102fcb1955.png">
+![image](https://user-images.githubusercontent.com/102716839/161201105-357fc2f7-019a-489a-9818-f420dba0c5e5.png)
+
+
+
 
 
 # Who and how
