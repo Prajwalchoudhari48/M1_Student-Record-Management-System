@@ -1,14 +1,11 @@
 # Introduction
- Student record management system is designed to help manage the daily school activities of recording and maintaining by automating it. It is also known as the student information system (SIS) or school records system (SRS). 
-The system is equipped with a robust set of features like attendance tracking, library management, parents portal, etc. These tools help in managing the institute efficiently and accurately. In other words, it saves time, cut fees loss, and other wastages.
+Student record management system is designed to help accomplish the daily school activities of recording and upholding by automating it.It is also acknowledged as the student information system(SIS) or school record system(SRS).The system is equipped with a vigorous set of features like add record,delete record,modify record etc..These tools help in managing the institute competently and accurately.In other words,it saves time and other wastages.
 
-Educational institutions need to manage huge data of students for managing school affairs systematically. To streamline the process of managing student data, a lot of educational institutions are investing in a high-performance student record management system.The student record management system automates the process of data handling, thus, saving you a great deal of time. What’s more, it also minimizes the chances of human error.
+Educational institutions needs to manage vast data of students for managing school activities systematically.To streamline the process of managing student data,a lot of educational institutions are investing in a high performance student record management system.The student record management system powers the process of data handling,thus saving you a prodigious deal of time.what's more,it also reduces the probabilities of human error.
 
-The “Student Record Managment System Project in C” is a console application using the C programming language. This project compiled in Visual Studio Code. In this console application, you can do basic Student Record tasks like adding the student info, view the added student, search the students,etc....
+This project compiled in Visual Studio Code.IN this you can do basic student Record task like adding the student info,view the added student,serch the student etc.
 
-This application based on file handling in C, where I have used a file-related function like fopen, fread, fwrite, ..etc.
-
-using multiple record managment increase the readability, I have broken the application in different functions. Each function of the project extensively use in the file handing function, so it is also a great project to understand file handling in C.
+This submission based on file handling in c,where I have used a file related function like fopen,fread,fwrite etc.Using multiple record management increases the readability.
 
 # Top Benefits of Using Student Record Management System
 The menu displays options to add, delete, modify, search and display.
@@ -38,10 +35,7 @@ The menu displays options to add, delete, modify, search and display.
 
 - HOW - It will be used by everyone since simple to use.
 
-# High Level Requirements
-![image](https://user-images.githubusercontent.com/102716839/161014051-91f3bfc8-d996-4b93-aff8-8ba4cd805d32.png)
 
-# Low Level Requirements
-![image](https://user-images.githubusercontent.com/102716839/161014154-f61eb472-7a07-4405-8e6e-92c39708f09e.png)
+
 
 
