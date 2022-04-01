@@ -1,4 +1,4 @@
-
+# M1_Student-Record-Management-System
 # Introduction
  Student record management system is intended to help accomplish the daily school activities of recording and upholding by systematizing it. The system is prepared with a robust set of structures like modify record, delete record, search record etc. These tools help in handling the institute competently and accurately.
 
