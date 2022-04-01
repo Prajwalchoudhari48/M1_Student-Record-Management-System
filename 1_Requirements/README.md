@@ -1,39 +1,40 @@
+
 # Introduction
-Student record management system is designed to help accomplish the daily school activities of recording and upholding by automating it.It is also acknowledged as the student information system(SIS) or school record system(SRS).The system is equipped with a vigorous set of features like add record,delete record,modify record etc..These tools help in managing the institute competently and accurately.In other words,it saves time and other wastages.
+ Student record management system is intended to help accomplish the daily school activities of recording and upholding by systematizing it. The system is prepared with a robust set of structures like modify record, delete record, search record etc. These tools help in handling the institute competently and accurately.
 
-Educational institutions needs to manage vast data of students for managing school activities systematically.To streamline the process of managing student data,a lot of educational institutions are investing in a high performance student record management system.The student record management system powers the process of data handling,thus saving you a prodigious deal of time.what's more,it also reduces the probabilities of human error.
+Educational institutions need to manage vast data of students for handling school affairs systematically. To streamline the process of managing student data, a lot of educational institutions are investing in a high-performance student record management system. The student record management system automates the process of data handling, thus, saving you a great deal of time. What’s more, it also reduces the probabilities of human error.
 
-This project compiled in Visual Studio Code.IN this you can do basic student Record task like adding the student info,view the added student,serch the student etc.
+This project compiled in Visual Studio Code. This request based on file handling in C, where I have cast-off a file-related function like fopen, fread, fwrite, ..etc. 
+using multiple record management increase the legibility, I have broken the application in different functions. Each function of the project widely use in the file handing function, so it is also a great project to understand file handling in C.
 
-This submission based on file handling in c,where I have used a file related function like fopen,fread,fwrite etc.Using multiple record management increases the readability.
 
-# Top Benefits of Using Student Record Management System
+
+# Features Using Student Record Management System
 The menu displays options to add, delete, modify, search and display.
--  Add - Allows addition of new entry into the database with a unique id. 
--  View Record - Allow the view the records from database 
--  Delete - Allows deletion of a particular entry by a given id. 
--  Modify - Allows modification of a particular field of the entry by id. 
--  Search - For searching if an entry is present or not. 
--  Exit - Exit from the main menu bar.
+
+- Add - Allows addition of new entry into the database with a unique id.
+- View Record - Allow the view the records from database
+- Delete - Allows deletion of a particular entry by a given id.
+- Modify - Allows modification of a particular field of the entry by id.
+- Search - For searching if an entry is present or not.
+- Exit - Exit from the main menu bar.
+
 
 # SWOT Analysis
-![image](https://user-images.githubusercontent.com/102716839/161201105-357fc2f7-019a-489a-9818-f420dba0c5e5.png)
+![image](https://user-images.githubusercontent.com/102716839/161201280-129cff43-8b5d-414e-894f-fe8de8a9b024.png)
 
 
 
+# 4'W and 1'H
+- WHO - This will cater to all those who are beginners to database management and file management.
 
+- WHAT - It's free and can be simply used by people of all eternities.
+- WHEN - Database is a very important tool in today's era and hence this will be greeted at all times when someone wants to learn.
 
-# Who and how
+- WHERE - Fields where records are being digitizing and for teaching the beginners
 
-- WHO - This will cater to all those who are beginners to database management and file handling
+- HOW - It will be used by everyone since simple to use
 
-- WHAT - It's free and can be easily used by people of all ages
-
-- WHEN - Database is a very imporatant tool in today's era and hence this will be welcomed at all times when someone wants to learn it.
-
-- WHERE - Fields where records are being digitised and for teaching the beginners
-
-- HOW - It will be used by everyone since simple to use.
 
 
 
